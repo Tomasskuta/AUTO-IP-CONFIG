@@ -1,3 +1,5 @@
+[https://www.python.org/downloads/release/python-3142/](https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe) --- install with admin priviliges, add python to enviromental variables, no need to change anything
+
 Task scheluder:
 
 <img width="635" height="592" alt="image" src="https://github.com/user-attachments/assets/3e428881-be53-4e96-859a-698a91091a0c" />
